@@ -2,7 +2,7 @@
 ![Alt text](ticra_bluebitmap.png?raw=true "logo")
 
 
-### data sampels exists in sample folder
+### data sampels exists in samples folder
 📢 Leave receiving data from social networks to us 📢
  
 ✅ Twitter:
