@@ -27,4 +27,4 @@
 
 
 ## 1000 Records == 1$ only
-# for orders DM me in Telegram: @ticra_admin
+# for orders DM in Telegram: @ticra_admin
