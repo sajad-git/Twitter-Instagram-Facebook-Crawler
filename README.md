@@ -27,7 +27,7 @@
 
 
 ## Pricing
-Twitter : 1000 Records == 0.1$ 
+Twitter : 1000 Records == 0.2$ 
 
 Instagram : 1000 Records == 0.8$ 
 ## Facebook and linkedin crawler in progress ...
