@@ -17,7 +17,7 @@
 
 🔰 People who liked a post
  
-✅Instagram:
+✅ Instagram:
 
 🔰 search query,
 
@@ -28,5 +28,13 @@
 
 ## Pricing
 Contact us!
-## Facebook and linkedin crawler in progress ...
+## To Do
+☑️ Facebook:
+✔️ post reactions
+✔️ post comments
+✔️ page posts
+🔎 hashtag search (in progress)
+
+🔎 LinkedIn (in progress)
+
 # for orders DM in Telegram: @ticra_admin
