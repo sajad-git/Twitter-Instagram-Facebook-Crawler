@@ -27,8 +27,6 @@
 
 
 ## Pricing
-Twitter : 1000 Records == 0.2$ 
-
-Instagram : 1000 Records == 0.8$ 
+Contact us!
 ## Facebook and linkedin crawler in progress ...
 # for orders DM in Telegram: @ticra_admin
