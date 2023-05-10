@@ -32,10 +32,15 @@ Contact us!
 ## To Do
 
 ☑️ Facebook:
+
 ✔️ post reactions
+
 ✔️ post comments
+
 ✔️ page posts
+
 🔎 hashtag search (in progress)
+
 
 🔎 LinkedIn (in progress)
 
